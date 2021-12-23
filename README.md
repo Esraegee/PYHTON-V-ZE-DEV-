@@ -1,2 +1,2 @@
-# PYHTON-V-ZE-DEV-
+# PythonVizeOdevi
 yemek tarifi uygulaması
