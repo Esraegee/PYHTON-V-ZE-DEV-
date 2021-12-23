@@ -1,0 +1,2 @@
+yumurta
+yumurta,yağ,tuz
